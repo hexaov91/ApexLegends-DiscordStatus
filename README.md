@@ -2,7 +2,7 @@
 
 ### Features
    
-   tracking player selected legends,player name,ingame status and timing, then show at discord gaming status
+   tracking player selected legends,player name , ingame status and timing, then show at discord gaming status
 
 
 ### Set up
