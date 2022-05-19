@@ -5,7 +5,7 @@
    ### CFG
 
 
-   請於 playerName.cfg 文件中設置以下參數
+   請於 playerInfo.json 文件中設置以下參數
 
     playerName #限輸入Origin玩家名稱 
    
