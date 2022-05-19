@@ -2,15 +2,22 @@
 
 ### 設定方式
 
-請於 playerName.cfg 文件中設置以下參數
+   ### CFG
 
-   playerName #限輸入Origin玩家名稱 
+
+   請於 playerName.cfg 文件中設置以下參數
+
+    playerName #限輸入Origin玩家名稱 
    
-   APIKey #請至https://portal.apexlegendsapi.com/ 申請
+    APIKey #請至https://portal.apexlegendsapi.com/ 申請
    
-   Languages: "TW" #目前僅支援中文(TW)/英文(EN)
+    Languages: "TW" #目前僅支援中文(TW)/英文(EN)
    
 
+   ### Discord
+
+
+    若無法顯示 請至設定->動態設定->活動狀態中 將遊戲Hexaov discord pre-relese test(預設)加入
 
 
 ### 成果圖
@@ -24,5 +31,11 @@ EN:
     <img width="300px" src="https://media.discordapp.net/attachments/872419914718273587/976855909185773578/unknown.png">
 </a>
 
+
 ### Bugs
+若無法正常開啟 請以管理員模式開啟主程式
+
 目前無法檢測到靶場/競技場/rank地圖 只會顯示目前大逃殺輪替的地圖
+
+
+
