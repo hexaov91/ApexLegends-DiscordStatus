@@ -26,6 +26,7 @@ TW:
 <a href="https://github.com/a3510377" style="border-radius:50%">
     <img width="300px" src="https://media.discordapp.net/attachments/872419914718273587/976852857506656256/unknown.png">
 </a>
+
 EN:
 <a href="https://github.com/a3510377" style="border-radius:50%">
     <img width="300px" src="https://media.discordapp.net/attachments/872419914718273587/976855909185773578/unknown.png">
